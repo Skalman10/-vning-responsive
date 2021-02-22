@@ -19,7 +19,7 @@ body {
   }
   
   h1 {
-    font-size: 2.4rem;
+    font-size: 1.6rem;
     font-weight: 800;
   }
   
@@ -53,8 +53,8 @@ body {
   
   /* classes */
   .cta {
-    padding-top: 12rem;
-    padding-bottom: 10rem;
+    padding-top: 6rem;
+    padding-bottom: 5rem;
   }
   .container {
     margin-left: auto;
